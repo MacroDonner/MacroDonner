@@ -1,4 +1,4 @@
-# Hi, I'm [Myrzaev Akhmet]
+# Hi, my name is Myrzaev Akhmet
 
 I'm a self-taught developer focused on backend systems, CLI tools, and Linux development.  
 I build practical projects to improve my skills in JavaScript, C++, Node.js, and system-level programming.
