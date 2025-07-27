@@ -1,10 +1,16 @@
 # Hi, my name is Myrzaev Akhmet
 
-I'm a self-taught developer focused on backend systems, CLI tools, and Linux development.  
-I build practical projects to improve my skills in JavaScript, C++, Node.js, and system-level programming.
+I'm a self-taught developer focused on backend systems, CLI tools,
+**Technical Skills**  
+Languages: JavaScript (ES6+), TypeScript  
+Backend: Node.js, Express.js, REST APIs, GraphQL  
+Databases: PostgreSQL / MySQL, Prisma / Sequelize  
+DevOps: Git,  
+Security & Performance: JWT, input validation, caching, error handling  
+Other: Async/Await, WebSockets (Socket.IO), Logging, API documentation
 
 - 🔧 Tools I work with: Arch Linux, Neovim, Git
-- 🌱 Currently learning: advanced C++ (STL, multithreading), networking, and backend APIs
+- 🌱 Currently learning: Advencing Javascript
 - 📚 I learn by building real projects and studying open-source code
 - 🚀 I aim to create efficient, minimal, and reliable software
 
